@@ -7,9 +7,9 @@ Kampus  : UPI
 
 Program yang saya buat adalah program simple untuk penginputan data dan menampilkan data
 menggunakan OOP untuk mengimplementasikan konsep Multi-level Inheritance pada
-kelas Mahasiswa, Human, dan SivitasAkademik dengan SivitasiAkademik sebagai induk
-karena cakupan kelasnya bisa ditaro di atas Mahasiswa dan Human. Saya juga
-memebuat Human menjadi anak paling terakhir dengan bertujuan agar proses
+kelas Mahasiswa, Human, dan SivitasAkademik dengan SivitasAkademik sebagai induk
+karena cakupan kelasnya bisa ditaruh di atas Mahasiswa dan Human. Saya juga
+membuat kelas Human menjadi anak yang diwariskan paling terakhir dengan bertujuan agar proses
 ngodingnya cukup mudah
 
 Alur program mainnya yaitu pertama saya ingin membuat user memilih metode.
